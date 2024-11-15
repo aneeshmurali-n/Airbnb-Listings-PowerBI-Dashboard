@@ -95,7 +95,7 @@ Overall, the pie chart shows that the Airbnb market in New York City is dominate
 ![image](https://github.com/user-attachments/assets/b1ea3332-c433-4527-9223-c459390e6879)
 
 ### Remark:
-With this dashboard, we can interact and find many things in the New York City Airbnb Listings so download the dashboard project file open it with powerbI and enjoy.
+With this dashboard, we can interact and find many things in the New York City Airbnb Listings so download the dashboard project file open it with powerBI and enjoy.
 Best Regards,
 Aneesh Murali Nariyampully
 
