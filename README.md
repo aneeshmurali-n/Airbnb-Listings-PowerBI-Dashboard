@@ -2,6 +2,9 @@
 This project is a Power BI dashboard analyzing Airbnb listings in New York City. Using the NYC Airbnb Open Data from Kaggle, this dashboard provides insights into Airbnb trends across NYC neighborhoods, including listing types, locations, pricing, and review patterns. It’s a valuable tool for understanding the Airbnb market in NYC and identifying potential opportunities or patterns in listing data.
 
 ![Screenshot 2024-11-15 174356](https://github.com/user-attachments/assets/873938d3-bcc0-446b-a5cf-db8e96a14f93)
+![Screenshot 2024-11-15 180734](https://github.com/user-attachments/assets/21f3fb4f-46ae-4c4d-be40-c9caee60b9a2)
+![map zoom](https://github.com/user-attachments/assets/d7d2e105-362b-452b-8474-3a1b8696f3e1)
+
 ## Dashboard Features
 **The Power BI dashboard is organized into multiple sections, each providing a unique insight into NYC Airbnb listings:**
 * **Room Type Distribution:** A donut chart showing the percentage of listings by room type (Entire home/apt, Private room, Shared room). Helps users understand the market share of each room type in NYC.
@@ -87,6 +90,16 @@ Overall, the pie chart shows that the Airbnb market in New York City is dominate
 
 ### Top 10 Entire home/apt Listings in Manhattan based on review count: 
 ![image](https://github.com/user-attachments/assets/ba4be2bc-69f1-4dfb-a6f9-93be01404028)
+
+### Popular 102 places in New York City Airbnb Listings based on highest review count:
+![image](https://github.com/user-attachments/assets/b1ea3332-c433-4527-9223-c459390e6879)
+
+### Remark:
+With this dashboard, we can interact and find many things in the New York City Airbnb Listings so download the dashboard project file open it with powerbI and enjoy.
+Best Regards,
+Aneesh Murali Nariyampully
+
+
 
  
 
