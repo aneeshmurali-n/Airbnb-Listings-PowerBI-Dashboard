@@ -65,12 +65,20 @@ Overall, the pie chart shows that the Airbnb market in New York City is dominate
   This indicates that while entire homes/apartments are popular across all neighborhoods, private rooms are especially popular in Brooklyn, Queens, and Bronx, likely due to affordability and social interaction opportunities.
 
 ### The Reviews vs Month: 
+![image](https://github.com/user-attachments/assets/e28f7fd1-4a0d-489b-966e-9ded1b8f45c6)
+
 **line chart shows a clear seasonal trend in Airbnb reviews, with a significant spike in July. Here are the key insights:**
   * Peak Season in June: Reviews hit their highest point in June, suggesting a peak in bookings, likely due to summer travel. This is a prime time for hosts to adjust pricing and availability.
   * Low Activity Outside Summer: The review count remains relatively low and stable throughout the rest of the year, indicating lower booking activity during off-peak months.
   * Seasonal Demand Pattern: This trend suggests that Airbnb demand in NYC is highly seasonal, with a surge in summer, which is helpful for hosts planning for peak seasons.
 
-###
+### The chart shows the average price of Airbnb listings in different neighborhoods of New York City.
+![Screenshot 2024-11-15 204251](https://github.com/user-attachments/assets/6053a324-3629-4d73-9f07-541ab5088749)
+
+  * The most expensive neighborhoods: Fort Wadsworth, Woodrow, and Tribeca have the highest average prices.
+  * There is a wide range of prices across neighborhoods. The most expensive neighborhood is more than 10 times more expensive than the least expensive neighborhood.
+
+
 
   
 
