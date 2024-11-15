@@ -16,6 +16,7 @@ This project is a Power BI dashboard analyzing Airbnb listings in New York City.
 * **Sliders and slicers:** for filtering data based on (Location, Neighborhood, Room Type, Minimum Nights, Number of Reviews, and Price)
 
 ## Insightful Analysis
+* 
 
 
 
