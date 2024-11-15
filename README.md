@@ -78,6 +78,20 @@ Overall, the pie chart shows that the Airbnb market in New York City is dominate
   * The most expensive neighborhoods: Fort Wadsworth, Woodrow, and Tribeca have the highest average prices.
   * There is a wide range of prices across neighborhoods. The most expensive neighborhood is more than 10 times more expensive than the least expensive neighborhood.
 
+### The chart shows the number of reviews and reviews per month for various Airbnb listings.
+![Screenshot 2024-11-15 205143](https://github.com/user-attachments/assets/45e63682-7ad1-4d3c-aafb-9402718475c7)
+![image](https://github.com/user-attachments/assets/75e3f0a0-0391-45f6-a279-23e1954390ca)
+  * Private Room has the highest number of reviews and a consistent review rate over time.
+  * HOME AWAY FROM HOME  has the highest peak in reviews per month, indicating a surge in popularity at one point.
+    ![image](https://github.com/user-attachments/assets/91b27375-d0f0-4732-83ac-2667c895c4a1)
+
+### Top 10 Entire home/apt Listings in Manhattan based on review count: 
+![image](https://github.com/user-attachments/assets/ba4be2bc-69f1-4dfb-a6f9-93be01404028)
+
+ 
+
+  
+
 
 
   
