@@ -40,6 +40,42 @@ Overall, the pie chart shows that the Airbnb market in New York City is dominate
   Private room Listings: 10.13k<br>
   Shared room Listings: 413<br>
 
+* #### Queens:
+  Total Listings: 5.666k<br>
+  Entire home/apt Listings: 2.1k<br>
+  Private room Listings: 3.37k<br>
+  Shared room Listings: 198<br>
+
+* #### Bronx:
+  Total Listings: 1.09k<br>
+  Entire home/apt Listings: 379<br>
+  Private room Listings: 652k<br>
+  Shared room Listings: 60<br>
+
+* #### Staten Island:
+  Total Listings: 373<br>
+  Entire home/apt Listings: 176<br>
+  Private room Listings: 188<br>
+  Shared room Listings: 9<br>
+* #### Summary:
+  Manhattan: Mostly entire homes/apartments
+  Brooklyn & Queens: Balanced mix of entire homes/apartments and private rooms
+  Bronx: More private rooms
+  Staten Island: Small number of listings, balanced mix
+  This indicates that while entire homes/apartments are popular across all neighborhoods, private rooms are especially popular in Brooklyn, Queens, and Bronx, likely due to affordability and social interaction opportunities.
+
+### The Reviews vs Month: 
+**line chart shows a clear seasonal trend in Airbnb reviews, with a significant spike in July. Here are the key insights:**
+  * Peak Season in June: Reviews hit their highest point in June, suggesting a peak in bookings, likely due to summer travel. This is a prime time for hosts to adjust pricing and availability.
+  * Low Activity Outside Summer: The review count remains relatively low and stable throughout the rest of the year, indicating lower booking activity during off-peak months.
+  * Seasonal Demand Pattern: This trend suggests that Airbnb demand in NYC is highly seasonal, with a surge in summer, which is helpful for hosts planning for peak seasons.
+
+###
+
+  
+
+
+
 
 
 
