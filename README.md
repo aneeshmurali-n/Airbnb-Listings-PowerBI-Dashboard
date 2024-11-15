@@ -12,11 +12,31 @@ This project is a Power BI dashboard analyzing Airbnb listings in New York City.
 * **Airbnb Listings by Location:** A clustered column chart showing the number of Airbnb listings in each NYC borough (Manhattan, Brooklyn, Queens, Bronx, Staten Island) with further breakdowns by room type. This chart highlights which boroughs have the highest listing counts.
 * **Average Price by Neighborhood:** A bar chart displaying the average price of listings in prominent NYC neighborhoods. This can help identify the most and least expensive areas for Airbnb accommodations.
 * **Listing Name by Reviews:** line and stacked column chart showing the most reviewed listings alongside their review counts, providing insights into popular listings and customer engagement.
-* **listings** A Card To show the number of listings.
+* **Listings** A Card To show the number of listings.
 * **Sliders and slicers:** for filtering data based on (Location, Neighborhood, Room Type, Minimum Nights, Number of Reviews, and Price)
 
-## Insightful Analysis
-* 
+## Insights:
+### Total number of Airbnb Listings : 48.879K
+
+
+### Overall Room type distribution 
+![image](https://github.com/user-attachments/assets/468b731c-3508-4ae5-8dcd-6806d950d993)
+
+* The Entire home/apt room type is dominating in New York City Airbnb Listings about 51.97% (25.41k) of the total listings. This suggests that many travelers to New York City prefer to have a full apartment or house to themselves during their stay.
+* Private room shows the second largest dominance with 45.66% (22.33k) of the total listings. This indicates that private rooms are also a popular option for travelers, likely due to their affordability and the opportunity to meet other travelers.
+* Shared rooms are the least common room type, making up only 2.37% (1.16k) of the total listings. This suggests that shared rooms are not as popular in New York City as in other destinations.
+Overall, the pie chart shows that the Airbnb market in New York City is dominated by entire homes and apartments, followed by private rooms. Shared rooms are the least common option.
+
+### Room type distribution in Manhattan
+![image](https://github.com/user-attachments/assets/c5bd305c-3c95-4058-b7b2-a21d2dc541c7)
+
+Entire homes/apartments are the most popular choice, accounting for nearly 27% of listings.
+Private rooms are the second most popular, making up about 16% of listings.
+Shared rooms are the least popular, with only 1% of listings.
+This indicates a strong preference for independent accommodations and budget-friendly options among visitors to Manhattan.
+
+
+
 
 
 
