@@ -28,11 +28,17 @@ This project is a Power BI dashboard analyzing Airbnb listings in New York City.
 Overall, the pie chart shows that the Airbnb market in New York City is dominated by entire homes and apartments, followed by private rooms. Shared rooms are the least common option.
 
 ### Room type distribution based on Neighbourhood Group
-* **Manhattan:**
-  **Total Listings:** 21.652k
-  **Entire home/apt Listings:** 13.2k
-  **Private room Listings:** 7.98k
-  **Shared room Listings:** 480
+* #### Manhattan:
+  Total Listings: 21.652k<br>
+  Entire home/apt Listings: 13.2k<br>
+  Private room Listings: 7.98k<br>
+  Shared room Listings: 480<br>
+
+* #### Brooklyn:
+  Total Listings: 20.098k<br>
+  Entire home/apt Listings: 9.56k<br>
+  Private room Listings: 10.13k<br>
+  Shared room Listings: 413<br>
 
 
 
