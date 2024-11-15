@@ -1,2 +1,2 @@
 # Airbnb-Listings-PowerBI-Dashboard
-Airbnb-Listings-PowerBI-Dashboard is an interactive Power BI dashboard analyzing NYC Airbnb data from Kaggle. It provides insights into listing types, pricing trends, popular neighborhoods, and review patterns across NYC. Ideal for exploring market trends and identifying high-demand areas in NYC’s Airbnb landscape.
+This project is a Power BI dashboard analyzing Airbnb listings in New York City. Using the NYC Airbnb Open Data from Kaggle, this dashboard provides insights into Airbnb trends across NYC neighborhoods, including listing types, locations, pricing, and review patterns. It’s a valuable tool for understanding the Airbnb market in NYC and identifying potential opportunities or patterns in listing data.
